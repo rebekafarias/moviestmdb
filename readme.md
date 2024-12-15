@@ -10,6 +10,7 @@ This project is a PHP integration with The Movie Database (TMDb) API, allowing u
 
 ## Technologies Used
 - **PHP**
-- **HTML/CSS**
+- **HTML**
+- **CSS**
 - **JavaScript**
-- **The Movie Database (TMDb) API**
+- **The Movie Database API**
